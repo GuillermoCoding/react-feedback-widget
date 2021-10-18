@@ -1,2 +1,17 @@
-# react-feedback-widget
-React component + Netlify forms to collect customer feedback on your website
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+![demo-1](public/feedback-demo-1.png)
+![demo-2](public/feedback-demo-2.png)
